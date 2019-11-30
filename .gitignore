@@ -1,0 +1,5 @@
+*.log
+data/
+build/
+public/
+db.sqlite3
